@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapLoaderTest", "MapLoaderTester\MapLoaderTest.csproj", "{A50F04BC-2287-41B5-ABD5-E6F16006F7A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sinf3MapLoader", "MapLoader\Sinf3MapLoader.csproj", "{ECDF76C3-CB6A-4A06-A007-669F26BFDDF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A50F04BC-2287-41B5-ABD5-E6F16006F7A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A50F04BC-2287-41B5-ABD5-E6F16006F7A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A50F04BC-2287-41B5-ABD5-E6F16006F7A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A50F04BC-2287-41B5-ABD5-E6F16006F7A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECDF76C3-CB6A-4A06-A007-669F26BFDDF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECDF76C3-CB6A-4A06-A007-669F26BFDDF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECDF76C3-CB6A-4A06-A007-669F26BFDDF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECDF76C3-CB6A-4A06-A007-669F26BFDDF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9EAE9FA-407E-423A-92B8-3E47E19FED17}
+	EndGlobalSection
+EndGlobal
